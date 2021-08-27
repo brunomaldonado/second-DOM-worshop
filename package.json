@@ -1,6 +1,6 @@
 
 {
-  "homepage": "https://github.com/brunomaldonado/DOM-workshop-two",
+  "homepage": "https://brunomaldonado.github.io/second-DOM-workshop/",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
