@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://brunomaldonado.github.io/second-DOM-workshop/',
+    baseUrl: 'https://brunomaldonado.github.io/second-DOM-workshop',
   },
 }
