@@ -1,0 +1,11 @@
+1.- Create HTML (images) directory api
+2.- images HTML -> JavaScript
+2.1- random images
+3.- events - DOM -> add images
+4.- Intersection Observer
+5.- Apply Lazys loading images
+
+
+1.- agregar un cuadro gris antes que se cargue la imagen, las imagenes deben cargar encima del cuadro gris
+2.- buton eliminar todas las imagenes
+3.- reporte en la console  de un total de imagenes que se han cargado y los que no.
