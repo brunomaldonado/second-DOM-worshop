@@ -5,7 +5,7 @@
 ## Second Workshop. Lazy Loading.
 
 <p align="center">
-  <img src="https://github.com/brunomaldonado/second-DOM-workshop/blob/main/gif/lazy.gif" width="320" height="auto" />
+  <img src="https://github.com/brunomaldonado/second-DOM-workshop/blob/main/gif/lazy.gif" width="375" height="auto" />
 </p>
 
 # Snowpack Tailwind
